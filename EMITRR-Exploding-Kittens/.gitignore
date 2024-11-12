@@ -1,0 +1,54 @@
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Node.js
+node_modules/
+
+# Build and Distribution
+dist/
+build/
+*.local
+
+# Environment files
+.env
+
+# MongoDB
+/data/
+
+# React build output
+/client/build/
+/client/.next/
+/client/out/
+/client/.idea/
+
+# Express.js generated files
+/server/build/
+/server/.idea/
+
+# TypeScript
+*.tsbuildinfo
+*.tsk
+*.tscache
+
+# Visual Studio Code
+.vscode/
+!.vscode/extensions.json
+
+# IntelliJ IDEA
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
