@@ -11,7 +11,7 @@
    - Open your terminal and navigate to the directory where you want to clone the repository.
    - Run the following command to clone the repository:
      ```bash
-     git clone https://github.com/sachindolase/EMITRR-Exploding-Kittens.git
+     git clone https://github.com/vishaaaalprajapati/emitrr-assesment.git
      ```
 
 2. **Set Up Server**
